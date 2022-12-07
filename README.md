@@ -28,3 +28,5 @@ everything I learn at school from the book backend programming.
 1.20  <br>
 1.21  <br>
 1.22  <br>
+
+(Tijdsvak: Leerjaar 1, Periode 1, Periode 2).
