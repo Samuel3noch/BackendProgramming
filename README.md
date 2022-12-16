@@ -6,7 +6,7 @@ Everything I learn at school from the book backend programming.
 
 # PHP 
 
-1.1 Ileiding PHP <br>
+1.1 Inleiding PHP <br>
 1.2 De Ontwikkelomgeving <br>
 1.3  <br>
 1.4  <br>
