@@ -12,6 +12,7 @@ $naw = $naam . ", " . $straat . ", " . $woonplaats;
 echo "Gegevens: $naw"; 
 
 // ik heb hier een echo gemaakt met een lap tekst.
+
 // dit is de snelste manier om een hoop tekst weer te geven zonder er telkens echo achter te schrijven.
 echo <<<TEKST
  <br> 
