@@ -33,7 +33,7 @@ echo <<<SOM
 <br>Bedrag in euro's is: 
 SOM;
 
-//hier beneden reken ik het uit op twee decimalen.
+//hier beneden reken ik het uit en rond ik af op twee decimalen.
 printf("%.2f", $euros);
 
 ?> 
