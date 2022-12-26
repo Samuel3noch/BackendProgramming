@@ -26,6 +26,7 @@ $koers = 1.2;
 $euros = $dollars * $koers;
 
 // ik ga de variabellen nu berekenen op 2 decimalen.
+
 //hier beneden heb ik almijn tekst in een "Heredoc-syntaxis" gedaan.
 echo <<<SOM
 <br>
