@@ -8,6 +8,7 @@ $rekenen = "6.7";
 $programmeren = "8.5";
 $databases = "9.4";
 
+
 echo "<table border='1'>
  <caption>
      <strong>Rapport</strong> 
