@@ -1,11 +1,13 @@
 <h3>php lab 1.4</h3> 
 <?php
+
 $naam = "karim";
 $nederlands = "8.5";
 $engels = "7.7";
 $rekenen = "6.7";
 $programmeren = "8.5";
 $databases = "9.4";
+
 echo "<table border='1'>
  <caption>
      <strong>Rapport</strong> 
