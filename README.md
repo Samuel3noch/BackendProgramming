@@ -10,7 +10,7 @@ Everything I learn at school from the book backend programming.
 1.2 De Ontwikkelomgeving <br>
 1.3 De PHP-Programmeertaal <br>
 1.4 Datatypen <br>
-1.5  <br>
+1.5 Array-Methodes <br>
 1.6  <br>
 1.7  <br>
 1.8  <br>
