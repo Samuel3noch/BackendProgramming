@@ -9,7 +9,7 @@ $rekenen = "6.7";
 $programmeren = "8.5";
 $databases = "9.4";
 
-// 
+// hier tel ik het gemiddelde op.
 $optellen = $nederlands + $engels + $rekenen + $programmeren + $databases ;
 $gemmideld = $optellen / 5 ;
 
@@ -21,11 +21,13 @@ $rekenen1 = "9.7";
 $programmeren1 = "9.5";
 $databases1 = "9.2";
 
-// 
+// hier maak een som om alle verhoudingen te krijgen.
 $optellen2 = $nederlands1 + $engels1 + $rekenen1 + $programmeren1 + $databases1 ;
 $gemmideld2 = $optellen2 / 5 ;
 $gemmideld2 = round($gemmideld2, 2) ; 
 
+//hier heb ik alle gemiddelde bij elkaar gezet voor een geheel.
+//dit heb ik gedaan met een variabel.
 $bijelkaar = $gemmideld + $gemmideld2 ;
 $GroepG = $bijelkaar / 2 ;
 $GroepG = round($GroepG, 1) ;
