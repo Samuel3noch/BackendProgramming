@@ -11,7 +11,7 @@ Everything I learn at school from the book backend programming.
 1.3 De PHP-Programmeertaal <br>
 1.4 Datatypen <br>
 1.5 Array-Methodes <br>
-1.6  <br>
+1.6 Array-methodes [vervolg]<br>
 1.7  <br>
 1.8  <br>
 1.9  <br>
