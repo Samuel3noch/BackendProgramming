@@ -65,6 +65,8 @@ array_unshift($producten, "TV's", "Steroe's");
 echo "TV's en Stereo's toegevoegd: ";
 print_r($producten);
 
+echo "<br> <br> 1.6 Array-Methodes[vervolg] ";
 
+// 
 
 ?>
